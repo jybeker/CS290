@@ -1,1 +1,2 @@
-This is a sample file for CS290 assignment1.
+<!-- Name: Beker, Jonathan -->
+This is test file 1 for CS290 HW1.
